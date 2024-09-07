@@ -1,0 +1,62 @@
+[
+    {
+        "categoryName": "Burger/Veg",
+        "name": "Cheese Burger",
+        "rate": "100/-",
+        "img": "https://mccormick.widen.net/content/qaiht8zf4f/webp/Franks%20RedHot%20Bacon%20Cheeseburger-800x800.webp"
+    },
+    {
+        "categoryName": "Burger/Veg",
+        "name": "Veggie Delight",
+        "rate": "90/-",
+        "img": "https://www.seriouseats.com/thmb/_c-xbP-tch4dpSTxKE1zY16sHo8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20231204-SEA-VeganBurger-FredHardy-00-dbf603c78b694bfd99489b85ab44f4c4.jpg"
+    },
+    {
+        "categoryName": "Burger/Veg",
+        "name": "Mushroom Swiss Burger",
+        "rate": "120/-",
+        "img": "https://dizzybusyandhungry.com/wp-content/uploads/2023/05/mushroom-swiss-burger-feature.jpg"
+    },
+    {
+        "categoryName": "Burger/Veg",
+        "name": "Spicy Bean Burger",
+        "rate": "110/-",
+        "img": "https://pulses.org/nap/wp-content/uploads/2017/03/black-bean-site.jpg"
+    },
+    {
+        "categoryName": "Burger/Veg",
+        "name": "Grilled Paneer Burger",
+        "rate": "130/-",
+        "img": "https://storage.googleapis.com/shy-pub/274490/1670744791946_Screenshot202212111329441.jpeg"
+    },
+    {
+        "categoryName": "Burger/Veg",
+        "name": "Falafel Burger",
+        "rate": "115/-",
+        "img": "https://assets.biggreenegg.eu/app/uploads/2021/03/05090934/topimage-vega-falafelburger-2021m03-800x533-1.jpg"
+    },
+    {
+        "categoryName": "Burger/Veg",
+        "name": "Classic Veg Burger",
+        "rate": "85/-",
+        "img": "https://proveg.org/wp-content/uploads/2023/10/1_Burger_Vivera.jpg"
+    },
+    {
+        "categoryName": "Burger/Veg",
+        "name": "BBQ Veg Burger",
+        "rate": "125/-",
+        "img": "https://images.immediate.co.uk/production/volatile/sites/2/2016/06/23929.jpg?quality=90&resize=556,505"
+    },
+    {
+        "categoryName": "Burger/Veg",
+        "name": "Tandoori Aloo Burger",
+        "rate": "105/-",
+        "img": "https://c.ndtvimg.com/2022-06/gp4k2jro_burgers_625x300_20_June_22.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=886"
+    },
+    {
+        "categoryName": "Burger/Veg",
+        "name": "Crispy Veg Burger",
+        "rate": "95/-",
+        "img": "https://aartimadan.com/wp-content/uploads/2020/07/crispy-veg-burger-recipe.jpg"
+    }
+]

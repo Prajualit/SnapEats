@@ -1,0 +1,56 @@
+[
+    {
+        "categoryName":"Wrap/Non-Veg",
+        "name": "Chicken Caesar",
+        "rate": "140/-",
+        "img": "https://www.eatingwell.com/thmb/GhOSNFEvenSAQmv2nZKNK7zNxa0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/EWL-Chicken-Caesar-Wrap-hero-1x1-1-b033bb0d47794ebb8754d7640f583f5b.jpg"
+    },
+    {
+        "categoryName":"Wrap/Non-Veg",
+        "name": "Chicken 65",
+        "rate": "160/-",
+        "img": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/d6/12/1f/chicken-65-roll.jpg"
+    },
+    {
+        "categoryName":"Wrap/Veg",
+        "name": "Veggie",
+        "rate": "130/-",
+        "img": "https://www.cookshideout.com/wp-content/uploads/2011/06/Vegetarian-Wraps-FI.jpg"
+    },
+    {
+        "categoryName":"Wrap/Non-Veg",
+        "name": "Turkey",
+        "rate": "180/-",
+        "img": "https://www.jennieo.com/wp-content/uploads/2019/11/image-recipe_turkey-caesar-wraps.jpg"
+    },
+    {
+        "categoryName":"Wrap/Veg",
+        "name": "Tuna",
+        "rate": "170/-",
+        "img": "https://homecookingmemories.com/wp-content/uploads/2014/02/Greek-Tuna-Salad-Wraps-Recipe-sq.jpg"
+    },
+    {
+        "categoryName":"Wrap/Veg",
+        "name": "BLT",
+        "rate": "150/-",
+        "img": "https://www.foxvalleyfoodie.com/wp-content/uploads/2017/08/blt-wraps-feature.jpg"
+    },
+    {
+        "categoryName":"Wrap/Non-Veg",
+        "name": "Ham",
+        "rate": "200/-",
+        "img": "https://tastykitchen.com/recipes/wp-content/uploads/sites/2/2010/05/hot-ham-and-cheese-wrap-resized.jpg"
+    },
+    {
+        "categoryName":"Wrap/Non-Veg",
+        "name": "Roast Pork",
+        "rate": "210/-",
+        "img": "https://www.allrecipes.com/thmb/RXKcOiJ4FLQ5I0eEw64rHLsQi8M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Salt-and-Spice-Pork-Wrap-France-C-2000-b44be4fab57d4b69a43fc359489e7a53.jpg"
+    },
+    {
+        "categoryName":"Wrap/Veg",
+        "name": "Gyro",
+        "rate": "220/-",
+        "img": "https://www.thespruceeats.com/thmb/plzoIrSo4bE_PZlbaYuQD-ou_eM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/greek-chicken-souvlaki-gyro-wrap-3958285-Hero_01-f7c0f7c283094126b5c29a01fa77da4a.jpg"
+    }
+]

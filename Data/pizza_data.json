@@ -1,0 +1,102 @@
+[
+    {
+        "categoryName": "Pizza/Veg",
+        "name": "Margharetta",
+        "img": "https://blog.eatfit.in/wp-content/uploads/2023/03/image-51.png",
+        "rate": [{
+            "regular": "129/-",
+            "medium": "249/-",
+            "large": "409/-"
+        }]
+    },
+    {
+        "categoryName": "Pizza/Non-Veg",
+        "name": "Pepperoni",
+        "img": "https://www.jennycancook.com/wp-content/uploads/2013/02/PeppPizza_600.jpg",
+        "rate": [{
+            "regular": "149/-",
+            "medium": "289/-",
+            "large": "449/-"
+        }]
+    },
+    {
+        "categoryName": "Pizza/Veg",
+        "name": "Veggie Delight",
+        "img": "https://img.freepik.com/premium-photo/closeup-freshly-baked-thincrust-pizza-loaded-with-assorted-vegetables-olives-gooey-melted-cheese-vegetarian-delight_1229213-19833.jpg",
+        "rate": [{
+            "regular": "129/-",
+            "medium": "254/-",
+            "large": "409/-"
+        }]
+    },
+    {
+        "categoryName": "Pizza/Non-Veg",
+        "name": "BBQ Chicken",
+        "img": "https://img.freepik.com/premium-photo/smoky-bbq-chicken-thin-crust-pizza_1170794-118804.jpg",
+        "rate": [{
+            "regular": "199/-",
+            "medium": "359/-",
+            "large": "509/-"
+        }]
+    },
+    {
+        "categoryName": "Pizza/Veg",
+        "name": "Four Cheese",
+        "img": "https://dudethatcookz.com/wp-content/uploads/2018/12/Four_Cheess_Pizza_6-1024x688.jpg.webp",
+        "rate": [{
+            "regular": "179/-",
+            "medium": "299/-",
+            "large": "459/-"
+        }]
+    },
+    {
+        "categoryName": "Pizza/Non-Veg",
+        "name": "Hawaiian",
+        "img": "https://img.freepik.com/premium-photo/hawaiian-pizza-with-thin-crust-topped-with-tomato-sauce-cheese-ham-pineapple_733217-1917.jpg",
+        "rate": [{
+            "regular": "189/-",
+            "medium": "329/-",
+            "large": "479/-"
+        }]
+    },
+    {
+        "categoryName": "Pizza/Veg",
+        "name": "Mexican",
+        "img": "https://cf.ltkcdn.net/www/images/orig/353200-2121x1414-mexican-pizza-904333278.jpg",
+        "rate": [{
+            "regular": "194/-",
+            "medium": "339/-",
+            "large": "499/-"
+        }]
+    },
+    {
+        "categoryName": "Pizza/Veg",
+        "name": "Paneer Tikka",
+        "img": "https://www.dominos.com.au/ManagedAssets/AU/product/P416/AU_P416_en_hero_8590.jpg?v-531245658",
+        "rate": [{
+            "regular": "199/-",
+            "medium": "349/-",
+            "large": "504/-"
+        }]
+    },
+    {
+        "categoryName": "Pizza/Non-Veg",
+        "name": "Spicy Sausage",
+        "img": "https://img.freepik.com/premium-photo/spicy-italian-sausage-thin-crust-pizza_1170794-119015.jpg",
+        "rate": [{
+            "regular": "204/-",
+            "medium": "359/-",
+            "large": "509/-"
+        }]
+    },
+    {
+        "categoryName": "Pizza/Veg",
+        "name": "Mushroom Feast",
+        "img": "https://www.allrecipes.com/thmb/3kXZg8lcMyGM83nrscYJy8so7to=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/257198-thin-crust-pizza-ddmfs-hero-1x2-1091-d1eb0be1578c4991b71b0fa92a2fe063.jpg",
+        "rate": [{
+            "regular": "189/-",
+            "medium": "349/-",
+            "large": "499/-"
+        }]
+    }
+]

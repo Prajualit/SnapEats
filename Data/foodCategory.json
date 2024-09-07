@@ -1,0 +1,26 @@
+[
+    {
+        "categoryName": "Pizza/Veg"
+    },
+    {
+        "categoryName": "Pizza/Non-Veg"
+    },
+    {
+        "categoryName": "Wrap/Veg"
+    },
+    {
+        "categoryName": "Wrap/Non-Veg"
+    },
+    {
+        "categoryName": "Drink"
+    },
+    {
+        "categoryName": "dessert"
+    },
+    {
+        "categoryName": "Burger/Veg"
+    },
+    {
+        "categoryName": "Burger/Non-Veg"
+    }
+]

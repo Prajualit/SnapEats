@@ -1,0 +1,56 @@
+[
+    {
+        "categoryName": "dessert",
+        "name": "Chocolate Cake",
+        "rate": "90/-",
+        "img": "https://joyfoodsunshine.com/wp-content/uploads/2020/08/best-chocolate-cake-recipe-from-scratch-8-500x375.jpg"
+    },
+    {
+        "categoryName": "dessert",
+        "name": "Cheese Cake",
+        "rate": "100/-",
+        "img": "https://www.allrecipes.com/thmb/M45_4DyClqVemGPcD0yZUbBHVH8=/0x512/filters:no_upscale():max_bytes(150000):strip_icc()/17410_BestNo-BakeCheesecake_4x3_CD_556161-4x3-74185af73481413986a2d5ff3eec071b.jpg"
+    },
+    {
+        "categoryName": "dessert",
+        "name": "Ice Cream",
+        "rate": "70/-",
+        "img": "https://www.allrecipes.com/thmb/pH8hoFfytcOT9XVK1DSmxv3L0OU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/140877-easy-eggless-strawberry-ice-cream-ddmfs-3x4-1-092e4d11b59049c8b3843014ea3c57f2.jpg"
+    },
+    {
+        "categoryName": "dessert",
+        "name": "Brownie",
+        "rate": "70/-",
+        "img": "https://sugarspunrun.com/wp-content/uploads/2023/08/Oreo-Brownies-1-of-1.jpg"
+    },
+    {
+        "categoryName": "dessert",
+        "name": "Cup Cake",
+        "rate": "60/-",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Cupcakes%2C_chocolate_and_strawberry_flavour.jpg/1200px-Cupcakes%2C_chocolate_and_strawberry_flavour.jpg"
+    },
+    {
+        "categoryName": "dessert",
+        "name": "Donut",
+        "rate": "60/-",
+        "img": "https://www.allrecipes.com/thmb/lkmpKIBFPRbfATPBoR8E57KimqM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/45921-crispy-and-creamy-doughnuts-DDMFS-4x3-4266734872014eeebaeddbe56452e18d.jpg"
+    },
+    {
+        "categoryName": "dessert",
+        "name": "Muffin",
+        "rate": "70/-",
+        "img": "https://www.eatingonadime.com/wp-content/uploads/2024/05/blueberry-muffins-4-2-2.jpg"
+    },
+    {
+        "categoryName": "dessert",
+        "name": "Pancake",
+        "rate": "75/-",
+        "img": "https://feelgoodfoodie.net/wp-content/uploads/2023/08/Greek-Yogurt-Pancakes-Square.jpg"
+    },
+    {
+        "categoryName": "dessert",
+        "name": "Waffle",
+        "rate": "90/-",
+        "img": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2023/03/easy-freezer-waffles-7-scaled.jpg?fit=1200%2C800&ssl=1"
+    }
+]

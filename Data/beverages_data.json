@@ -1,0 +1,64 @@
+[
+    {
+        "categoryName": "Drink",
+        "name": "Coca Cola",
+        "img": "https://www.shutterstock.com/image-photo/energetic-exciting-visual-cocacolas-summer-600nw-2450533063.jpg",
+        "rate": "80/-"
+    },
+    {
+        "categoryName": "Drink",
+        "name": "Pepsi",
+        "img": "https://dfreight.org/wp-content/uploads/2023/05/Unveiling-the-Power-of-Pepsis-Supply-Chain-Strategy-1.jpg",
+        "rate": "75/-"
+    },
+    {
+        "categoryName": "Drink",
+        "name": "Sprite",
+        "img": "https://isitbadforyou.s3.amazonaws.com/uploads/article/pictures/223/big_is_sprite_bad_for_you_2.jpg",
+        "rate": "70/-"
+    },
+    {
+        "categoryName": "Drink",
+        "name": "Fanta",
+        "img": "https://parade.com/.image/t_share/MTk5NTIzODQ0OTc1OTYxNzI4/istock-477562540.jpg",
+        "rate": "75/-"
+    },
+    {
+        "categoryName": "Drink",
+        "name": "Mountain Dew",
+        "img": "https://www.helloscholar.com//images/pics/604_dqfgoO_mtndew_zerosugar_conform_15_16x9_alt_v004-00096.jpg",
+        "rate": "80/-"
+    },
+    {
+        "categoryName": "Drink",
+        "name": "7 Up",
+        "img": "https://www.tasteofhome.com/wp-content/uploads/2019/01/7up-shutterstock_1175068075.jpg",
+        "rate": "70/-"
+    },
+    {
+        "categoryName": "Drink",
+        "name": "Mirinda",
+        "img": "https://s3files.core77.com/blog/images/1385733_216789_122335_jIeAYeGZf.jpg",
+        "rate": "75/-"
+    },
+    {
+        "categoryName": "Drink",
+        "name": "Thums Up",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjlfMORGYL29Ftbg0Z14XOZDMXcOpZ4gou5Q&s",
+        "rate": "80/-"
+    
+    },
+    {
+        "categoryName": "Drink",
+        "name": "Limca",
+        "img": "https://neelamfoodlandmumbai.com/cdn/shop/products/IMG_1635_grande.jpg?v=1652443377",
+        "rate": "70/-"
+    },
+    {
+        "categoryName": "Drink",
+        "name": "Dr Pepper",
+        "img": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/06/07/USAT/74020321007-2155918111.jpg?crop=3616,2035,x0,y168",
+        "rate": "45/-"
+
+    }
+]
