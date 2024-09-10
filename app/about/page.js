@@ -8,7 +8,7 @@ const page = () => {
             <div className='bg-[#0f0e19] flex flex-col items-center justify-center p-5 h-screen text-[#FEE69A] space-y-10'>
                 <Navbar></Navbar>
                 <div className='text-center sm:text-[60px] text-[40px] font-extrabold '>About Us</div>
-                <div className='lg:w-[50rem] text-center font-light text-[16px] sm:text-[18px]'>SnapEats is a Prototype Food Delivery Application. This is a MERN Stack Project which has been deployed using Vercel. It has been made using Next.js framework. It also uses JSW, bcrypt.js in order to further enchance the functionality.</div>
+                <div className='lg:w-[50rem] text-center font-light text-[16px] sm:text-[18px]'>SnapEats is a Prototype Food Delivery Application. This is a MERN Stack Project which has been deployed using Vercel. It has been made using Next.js framework. It also uses JSW, bcrypt.js in order to further enhance the functionality.</div>
                 <div className='sm:text-[18px] text-[16px] font-light'>Made with Love -- Prajualit Tickoo</div>
                 <div className='flex space-x-5'>
                     <Link href='https://github.com/Prajualit'>
