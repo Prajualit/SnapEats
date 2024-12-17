@@ -2,7 +2,7 @@
 import React from 'react'
 import { useDispatchCart, useCart } from '@/components/contextReducer'
 
-const page = () => {
+const Page = () => {
 
     let data = useCart();
     let dispatch = useDispatchCart();
@@ -78,4 +78,4 @@ const page = () => {
     )
 }
 
-export default page
+export default Page
