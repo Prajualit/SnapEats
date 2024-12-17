@@ -59,7 +59,7 @@ const Page = () => {
                                         <td className='text-center w-full'>{food.name}</td>
                                         <td className='text-center w-full'>{food.qty}</td>
                                         <td className='text-center w-full'>{food.size || "--"}</td>
-                                        <td className='text-center w-full'>{food.price}</td>
+                                        <td className='text-center hi w-full'>{food.price}</td>
                                     </tr>
                                     <td><button type='button' onClick={() => { dispatch({ type: "REMOVE", index: index }) }} className='duration-300 hover:text-black text-[#FEE69A] hover:bg-[#FEE69A] border-[#FEE69A] backdrop-blur-lg transition-colors font-bold border-[1px] px-6 rounded-lg py-2 focus:text-[#FEE69A] focus:bg-transparent'>Delete</button></td>
                                 </div>
