@@ -53,8 +53,8 @@ const page = () => {
                     <tbody className='w-full flex  flex-col space-y-2 overflow-y-auto'>
                         {data.map((food, index) => {
                             return (
-                                <div className='flex justify-center items-center w-full'>
-                                    <tr key={index} className='text-xl p-2 flex justify-evenly items-center w-[80%]'>
+                                <div key={index} className='flex justify-center items-center w-full'>
+                                    <tr className='text-xl p-2 flex justify-evenly items-center w-[80%]'>
                                         <td className='text-center w-full'>{index + 1}</td>
                                         <td className='text-center w-full'>{food.name}</td>
                                         <td className='text-center w-full'>{food.qty}</td>

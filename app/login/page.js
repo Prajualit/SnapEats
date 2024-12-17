@@ -41,7 +41,7 @@ const Page = () => {
                 <div className='flex flex-col space-y-3 justify-center items-center'>
                     <input type="submit" value={'Login'} className='bg-transparent border-[1px] border-[#FEE69A] w-fit text-[16px] sm:text-[18px] transition-colors duration-300 font-bold hover:text-[#0f0e19] cursor-pointer hover:bg-[#FEE69A] px-6 py-2 rounded-full' />
                     <div className='text-[16px] font-[100]'>
-                        Don't have an account? <Link href="/signup"><span className='text-[#7a7aec]'>Signup</span></Link>
+                        Don&apos;t have an account? <Link href="/signup"><span className='text-[#7a7aec]'>Signup</span></Link>
                     </div>
                 </div>
             </form>

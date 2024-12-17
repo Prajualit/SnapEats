@@ -148,10 +148,10 @@ const Home = () => {
             </div>
           </div>
           <div className='grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-8 cards sm:h-[30rem] h-[28rem] w-fit overflow-auto scroll-smooth rounded-xl bg-[#141722] sm:p-3 mx-auto sm:scale-100 scale-[0.85]'>
-            {Pizzas.filter((e) => e.name.toLowerCase().includes(Search.toLocaleLowerCase())).slice(0, visibleCount).map((item) => {
+            {Pizzas.filter((e) => e.name.toLowerCase().includes(Search.toLocaleLowerCase())).slice(0, visibleCount).map((item,index) => {
               const qty = quantities[item._id] || 1;
               return (
-                <Pizza data={data} quantities={quantities} setQuantities={setQuantities} dispatch={dispatch} qty={qty} size={size} setSize={setSize} Pizzas={Pizzas} visibleCount={visibleCount} item={item} Search={Search}></Pizza>
+                <Pizza key={index} data={data} quantities={quantities} setQuantities={setQuantities} dispatch={dispatch} qty={qty} size={size} setSize={setSize} Pizzas={Pizzas} visibleCount={visibleCount} item={item} Search={Search}></Pizza>
               )
             })}
           </div>

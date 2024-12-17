@@ -4,7 +4,7 @@ import Image from 'next/image'
 import Navbar from '@/components/Navbar'
 
 
-const page = () => {
+const Page = () => {
 
     const [orderData, setOrderData] = useState("")
 
@@ -54,9 +54,9 @@ const page = () => {
                                     data.orderData ?
                                         data.orderData.order_data.slice(0).reverse().map((item) => {
                                             return (
-                                                item.map((arrayData) => {
+                                                item.map((arrayData,index) => {
                                                     return (
-                                                        <div className='flex items-center justify-center space-y-3 w-full'>
+                                                        <div key={index} className='flex items-center justify-center space-y-3 w-full'>
                                                             {arrayData.Order_date ?
                                                                 <div className='m-auto mt-5 flex items-center justify-center flex-col w-full space-y-3'>
                                                                     <div>
@@ -97,4 +97,4 @@ const page = () => {
     )
 }
 
-export default page
+export default Page
