@@ -1,36 +1,77 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+# SnapEats
+
+SnapEats is a food delivery application designed to connect users with a variety of restaurants, enabling seamless ordering and delivery services.
+
+## Features
+
+- **User Authentication**: Secure login and registration system.
+- **Restaurant Listings**: Browse through a curated list of restaurants.
+- **Order Management**: Place and track orders in real-time.
+- **Payment Integration**: Supports multiple payment methods.
+- **Responsive Design**: Optimized for both web and mobile platforms.
+
+## Technologies Used
+
+- **Frontend**: Next.js, React, Tailwind CSS
+- **Backend**: Node.js, Express
+- **Database**: MongoDB
+- **Authentication**: JWT (JSON Web Tokens)
 
 ## Getting Started
 
-First, run the development server:
+To set up the project locally, follow these steps:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/Prajualit/SnapEats.git
+   cd SnapEats
+   ```
+
+2. **Install dependencies**:
+
+   ```bash
+   npm install
+   ```
+
+3. **Set up environment variables**:
+
+   Create a `.env` file in the root directory and add the necessary environment variables as specified in `.env.example`.
+
+4. **Run the development server**:
+
+   ```bash
+   npm run dev
+   ```
+
+   Open [http://localhost:3000](http://localhost:3000) to view the application in your browser.
+
+## Folder Structure
+
+The project structure is as follows:
+
+```
+SnapEats/
+├── app/                # Next.js application files
+├── backend/            # Backend server code
+├── components/         # Reusable React components
+├── public/             # Static assets
+├── .eslintrc.json      # ESLint configuration
+├── .gitignore          # Git ignore file
+├── README.md           # Project documentation
+├── package.json        # NPM package configuration
+└── ...                 # Other configuration files
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Contributing
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that your code adheres to the project's coding standards and includes appropriate tests.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## License
 
-## Learn More
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-To learn more about Next.js, take a look at the following resources:
+## Contact
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+For any inquiries or feedback, please contact [Prajualit](https://github.com/Prajualit).
