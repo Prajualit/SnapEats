@@ -6,7 +6,7 @@ SnapEats is a food delivery application designed to connect users with a variety
 ## Features
 
 - **User Authentication**: Secure login and registration system.
-- **Restaurant Listings**: Browse through a curated list of restaurants.
+- **Our Menu**: Select Your Favourite serving from our menu. 
 - **Order Management**: Place and track orders in real-time.
 - **Payment Integration**: Supports multiple payment methods.
 - **Responsive Design**: Optimized for both web and mobile platforms.
@@ -14,9 +14,9 @@ SnapEats is a food delivery application designed to connect users with a variety
 ## Technologies Used
 
 - **Frontend**: Next.js, React, Tailwind CSS
-- **Backend**: Node.js, Express
+- **Backend**: Node.js, Express.js
 - **Database**: MongoDB
-- **Authentication**: JWT (JSON Web Tokens)
+- **Authentication**: JWT (JSON Web Tokens), bcrypt.js, next-auth.js
 
 ## Getting Started
 
