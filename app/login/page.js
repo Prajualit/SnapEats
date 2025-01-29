@@ -21,8 +21,8 @@ const Page = () => {
         if (!data.success) {
             alert("Enter valid credentials")
         } else if (data.success) {
-            localStorage.setItem("userEmail", credentials.email)
-            localStorage.setItem("authToken", data.authToken);
+            // localStorage.setItem("userEmail", credentials.email)
+            // localStorage.setItem("authToken", data.authToken);
             router.push('/');
         }
     }

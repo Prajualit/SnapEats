@@ -105,9 +105,9 @@ const Home = () => {
 
   let data = useCart();
 
-  const handleAddtoCart = () => {
+  // const handleAddtoCart = () => {
 
-  }
+  // }
 
   return (
     <>

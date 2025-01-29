@@ -9,18 +9,18 @@ import Navbar from '@/components/Navbar'
 
 const Items = () => {
     
-    const [visibleCount, setvisibleCount] = useState(4)
-    const showPizzas = () => {
-        setvisibleCount(prevCount => Math.min(prevCount + 4, Pizzas.length));
-    }
-    const showlesspizzas = () => {
-        setvisibleCount(4);
+    // const [visibleCount, setvisibleCount] = useState(4)
+    // const showPizzas = () => {
+    //     setvisibleCount(prevCount => Math.min(prevCount + 4, Pizzas.length));
+    // }
+    // const showlesspizzas = () => {
+    //     setvisibleCount(4);
 
-    }
+    // }
 
     return (
         <div className='bg-[#0f0e19]'>
-            <div className='p-8 mt-[90px] flex flex-col space-y-10 justify-center text-[#FEE69A]'>
+            {/* <div className='p-8 mt-[90px] flex flex-col space-y-10 justify-center text-[#FEE69A]'>
                 <div className='text-[40px] font-[900] flex justify-between'>
                     <span>
                         Pizzas
@@ -299,7 +299,7 @@ const Items = () => {
                             </div></>)
                     })}
                 </div>
-            </div>
+            </div> */}
         </div>
     )
 }
